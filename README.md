@@ -246,4 +246,10 @@ python wordle_simulation.py <num_simulations>
 ## Мои результаты:
 
 num_simulations = 100
-average attempts to guess: 4.79
+average attempts to guess: 4.58
+
+![](GRAPHICS/image.png)
+
+Получилось вот такое распределение
+Иногда он делает 7 ходов, что противоречит правилам игры
+То есть в 4 случаев из 100 моя программа проигрывает
